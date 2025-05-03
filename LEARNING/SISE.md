@@ -29,3 +29,23 @@ PORTAL
 Administration > System > Settings > Protocols > Radius
 
 Uncheck supressed Failed and Supressed Failed
+
+
+##### Configuring Password Policy
+Administration > Identity Management > Settings > User Authentication Settings > Password Policy
+
+##### Configuring User and Endpoint Identity Groups
+Work Center > Network Access > ID Groups > Endpoint Identity Groups > Add 
+
+##### Configuring Users
+Work Centers > Network Access > Identities > Network Access Users > Add
+
+
+##### Configuring Endpoints
+
+Work Centers > Network Access > Identities > Endpoints 
+
+
+Work Centers > Network Access > Overview
+Click Step 1 Prepare > Ext Identity Sources
+
