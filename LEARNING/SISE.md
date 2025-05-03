@@ -1,10 +1,10 @@
 ## ISE Summary
 
 ##### Commands
-
+```
 show application status ise
 show ntp
-
+```
 
 Administration > System > Certificates
 Certificate Management > Trusted Certificates > Import
