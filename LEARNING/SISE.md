@@ -49,3 +49,6 @@ Work Centers > Network Access > Identities > Endpoints
 Work Centers > Network Access > Overview
 Click Step 1 Prepare > Ext Identity Sources
 
+
+##### Dictionaries
+Policy > Policy Elements > Dictionaries.
