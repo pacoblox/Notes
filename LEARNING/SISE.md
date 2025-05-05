@@ -52,3 +52,8 @@ Click Step 1 Prepare > Ext Identity Sources
 
 ##### Dictionaries
 Policy > Policy Elements > Dictionaries.
+
+
+
+##### Live Logs
+Operations > RADIUS > Live Logs
