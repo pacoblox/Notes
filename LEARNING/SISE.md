@@ -60,4 +60,6 @@ Operations > RADIUS > Live Logs
 
 ```
 show authentication session interface g0/3 details
+
+test aaa group radius employee1@abc.public 1234QWer new-code
 ```
