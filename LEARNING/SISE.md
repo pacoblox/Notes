@@ -57,3 +57,7 @@ Policy > Policy Elements > Dictionaries.
 
 ##### Live Logs
 Operations > RADIUS > Live Logs
+
+```
+show authentication session interface g0/3 details
+```
