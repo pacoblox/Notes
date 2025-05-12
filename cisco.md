@@ -17,7 +17,7 @@ Protocolos de señalización
 
 **The world is flat.**
 
-	```json
+```
 {
   "firstName": "John",
   "lastName": "Smith",
